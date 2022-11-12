@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Priti Modanwal
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Full Stack Web Development
+- 🌱 Currently, I’m learning Full Stack Web Development.
 
 
 <!---
