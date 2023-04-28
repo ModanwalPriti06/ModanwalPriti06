@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Priti Modanwal</h1>
 <h3 align="center">I am possinate to learn new things and create an opportunity to implement those.</h3>
 
-<center><img align="right" alt="image" width="200px" height="200px" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif"></center>
+<img align="center" alt="image" width="200px" height="200px" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=modanwalpriti06&label=Profile%20views&color=0e75b6&style=flat" alt="modanwalpriti06" /> </p>
 
