@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Priti Modanwal</h1>
+<h1 align="center">Hey👋, I'm Priti Modanwal</h1>
 <h3 align="center">I am possinate to learn new things and create an opportunity to implement those.</h3>
 
 
