@@ -2,15 +2,8 @@
 
 <h1 align="center">Hey👋, I'm Priti Modanwal</h1>
 <h3 align="center">I am possinate to learn new things and create an opportunity to implement those.</h3>
-<div style="position: relative; width: 900px; height: 450px;">
-  <img 
-    src="https://i.gifer.com/NIbp.gif" 
-    alt="coding" 
-    width="900" 
-    height="460" 
-    style="display: block;"
-  />
-</div>
+<p align="center">  <img src='https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif' alt="modanwalpriti06" /> </p>
+
 
 <p align="left">  <img src="https://komarev.com/ghpvc/?username=modanwalpriti06&label=Profile%20views&color=0e75b6&style=flat" alt="modanwalpriti06" /> </p>
 
