@@ -76,9 +76,13 @@
    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40" style="margin-right: 10px;" />
   </a>
-    <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="sql" width="40" height="40" style="margin-right: 10px;" />
   </a>
+  <a href="https://java.com/sql/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" style="margin-right: 10px;" />
+  </a>
+
 </p>
 
 
