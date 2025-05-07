@@ -1,16 +1,25 @@
 
+
 <h1 align="center">Hey👋, I'm Priti Modanwal</h1>
 <h3 align="center">I am possinate to learn new things and create an opportunity to implement those.</h3>
+<div style="position: relative; width: 900px; height: 450px;">
+  <img 
+    src="https://i.gifer.com/NIbp.gif" 
+    alt="coding" 
+    width="900" 
+    height="460" 
+    style="display: block;"
+  />
+</div>
 
+<p align="left">  <img src="https://komarev.com/ghpvc/?username=modanwalpriti06&label=Profile%20views&color=0e75b6&style=flat" alt="modanwalpriti06" /> </p>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=modanwalpriti06&label=Profile%20views&color=0e75b6&style=flat" alt="modanwalpriti06" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=modanwalpriti06" alt="modanwalpriti06" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Full stack web development**
+- 🚀 I’m currently working on real-time **ERP** and **CRM** solutions using the MERN stack.
 
 - 👨‍💻 All of my projects are available at [https://github.com/ModanwalPriti06?tab=repositories](https://github.com/ModanwalPriti06?tab=repositories)
 
