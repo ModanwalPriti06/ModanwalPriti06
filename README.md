@@ -69,6 +69,9 @@
   <a href="https://www.expressjs.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="expressjs" width="80" height="80" style="margin-right: 10px;" />
   </a>
+   <a href="https://www.expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" alt="angular" width="80" height="80" style="margin-right: 10px;" />
+  </a>
    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="80" height="80" style="margin-right: 10px;" />
   </a>
