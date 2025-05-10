@@ -101,7 +101,7 @@
 <!--   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=modanwalpriti06&theme=default" alt="modanwalpriti06 streak stats" /> -->
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=modanwalpriti06&" alt="modanwalpriti06"/> 
 
-<img alignt='right' src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY2MDE2MzksIm5iZiI6MTc0NjYwMTMzOSwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTA3VDA3MDIxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMxNmVkNTQ1NjAwMjg4ZjBlMTI0ZDA4OTY5YmVjYzFhYjEzYzFlMWE2NTRkNzQxNDcxMjY4NzY4N2YzZTI3YWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.j0c4lMG6TjEN3mwmEXE5xTdNa96KiTtjROVZCgH_roM" alt="vscode" width="320" height="200"/>
+<img alignt='right' src="https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif" alt="vscode" width="200" height="200"/>
 
 </p>
 
