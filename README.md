@@ -94,6 +94,10 @@
  <a href="https://vscode.com" target="_blank" rel="noreferrer">
      <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" alt="vscode" width="80" height="80" style="margin-right: 10px;" />
   </a>
+   <a href="https://html.com" target="_blank" rel="noreferrer">
+       <img src="https://private-user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTExMDI5OTAsIm5iZiI6MTc1MTEwMjY5MCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjYtMjlmZDYyODYtNGU3Yi00ZDZjLTgxOGYtYzQ3NjVkNWUzOWE5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjI4VDA5MjQ1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFhMTcxZmU3NGQzZWMzYzlkNTE4NzhhZWViZWRjOGJkODhmMWY0YjVmMzg0ZjlmYjA4NDQzYzhjMDg4MjUzM2UmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.rtJJJtfuioxB44CO1qP55Q5GqwpQLf5kqqbutG1AMk0" alt="html" width="80" height="80" style="margin-right: 10px;" />
+  </a>
+
 </p>
 
 
